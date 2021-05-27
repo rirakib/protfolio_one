@@ -1,0 +1,21 @@
+@media (max-width:600px){
+    .home  .text-2{
+        font-size:40px;
+        font-weight: 600;
+        margin-left:-3px;
+    }
+    .home .text-1{
+        font-size:16px;
+    }
+    .home .text-3{
+        font-size:25px;
+        margin:5px 0px;
+    }
+    .about .rightside h2{
+        font-size:20px;
+
+    }
+    .about .rightside p {
+        font-size:16px;
+    }
+}
